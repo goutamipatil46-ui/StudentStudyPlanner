@@ -47,7 +47,7 @@ StudentStudyPlanner/
 1. Install Git and Visual Studio Code.
 2. Clone this repository:
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/goutamipatil46-ui/StudentStudyPlanner.git
    ```
 3. Open the project folder in Visual Studio Code.
 4. Open `index.html` with the Live Server extension, or open the file in a browser.
@@ -71,7 +71,7 @@ git init
 git branch -M main
 git add .
 git commit -m "Create initial website structure"
-git remote add origin YOUR_GITHUB_REPOSITORY_URL
+git remote add origin https://github.com/goutamipatil46-ui/StudentStudyPlanner.git
 git push -u origin main
 ```
 
@@ -87,7 +87,7 @@ View commit history:
 git log --oneline
 ```
 
-Repository URL: `YOUR_GITHUB_REPOSITORY_URL`
+Repository URL: `https://github.com/goutamipatil46-ui/StudentStudyPlanner.git`
 
 ## 9. Jenkins Integration
 Jenkins is used to demonstrate a basic Continuous Integration pipeline.
